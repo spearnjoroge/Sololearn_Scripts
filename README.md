@@ -13,11 +13,11 @@
  - Includes fundamental concepts, data structures, algorithms, and small projects
 
 #### 🎯 Purpose
-Learning Progress: Tracking my coding journey through SoloLearn courses
+- Learning Progress: Tracking my coding journey through SoloLearn courses
 
-Skill Practice: Reinforcing programming concepts through hands-on exercises
+- Skill Practice: Reinforcing programming concepts through hands-on exercises
 
-Reference Material: Creating a personal knowledge base for future review
+- Reference Material: Creating a personal knowledge base for future review
 
 #### 📖 About SoloLearn
-SoloLearn is a free platform for learning coding languages through interactive lessons, challenges, and community features.
+- SoloLearn is a free platform for learning coding languages through interactive lessons, challenges, and community features.
