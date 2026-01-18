@@ -5,4 +5,4 @@
 [https://www.sololearn.com/certificates/CC-IYBKNR7A]
 
 
-... Currently in progress to complete intermediate and advanced levels.
+Advanced Certifications on my linkedin...
